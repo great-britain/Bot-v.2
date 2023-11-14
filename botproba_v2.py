@@ -9,7 +9,7 @@ import cv2
 from ultralytics import YOLO
 from shapely.geometry import box, Polygon
 
-TOKEN = '6963573748:AAHzlb7OGiTV3DquOBh8tV3gvpilU8F7svk'
+TOKEN = ''
 
 class ModelDetected:
     """Класс детекции нахождения персонала в опасных зонах"""
